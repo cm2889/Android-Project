@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Grid View</string>
+    <string-array name="country_names">Country Names
+        <item> Afghanistan </item>
+        <item> Albania </item>
+        <item>Bangladesh </item>
+        <item> Bhutan </item>
+        <item> Canada </item>
+        <item> Denamrk </item>
+        <item> England </item>
+        <item> India </item>
+        <item> Pakistan </item>
+
+    </string-array>
+</resources>
