@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/background"
+    tools:context="com.example.cmtanvir.logindemo.MainActivity">
+
+<ImageView
+    android:src="@mipmap/ic_launcher_round"
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    android:layout_marginBottom="20dp"/>
+    <EditText
+        android:drawableLeft="@drawable/ic_action_name"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/userNameId"
+        android:textColor="#ede5e5"
+        android:textSize="16sp"
+        android:textStyle="bold"
+
+        android:hint="User Name"/>
+    <EditText
+        android:inputType="textPassword"
+        android:drawableLeft="@drawable/ic_action_password"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/passwordId"
+        android:textColor="#ede5e5"
+        android:textSize="16sp"
+        android:textStyle="bold"
+
+        android:hint="Password"/>
+
+    <Button
+    android:id="@+id/loginId"
+
+    android:text="LOGIN"
+    android:textColor="#FFFFFF"
+    android:textSize="20sp"
+
+    android:layout_width="190dp"
+    android:layout_height="60dp"
+    android:background="@drawable/buttonshape"
+    android:shadowColor="#A8A8A8"
+    android:shadowDx="0"
+    android:shadowDy="0"
+    android:shadowRadius="5"
+    />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textId"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:text="Number of Text Attemps"
+        android:textColor="#FFFFFFFF"
+        />
+
+
+</LinearLayout>
