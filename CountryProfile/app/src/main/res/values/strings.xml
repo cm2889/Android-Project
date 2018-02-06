@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Country Profile</string>
+    <string name="bangla"> Bangladesh </string>
+    <string name="indi"> India </string>
+    <string name="paki"> Pakistan </string>
+    <string name="bangladesh_text">
+
+    The Jatiya Sangsad ("National Parliament"; Bengali: জাতীয় সংসদ Jatiyô Sôngsôd), often referred to simply as the Sangsad or JS and also known as the House of the Nation,[2] is the supreme legislative body of Bangladesh. The current parliament of Bangladesh contains 350[2] seats, including 50 seats reserved for women, which are apportioned on elected party position in the parliament. Elected occupants are called members of parliament or MP. The 10th National Parliamentary Election was held on 5 January 2014. Elections are held every five years unless the parliament is dissolved before that time.[3]
+
+The leader of the party (or alliance of parties) holding the majority of seats becomes the Prime Minister of Bangladesh, and the head of the government. The President of Bangladesh, the ceremonial head of state, is chosen by Parliament. Since the December 2008 national election, the current majority party is the Bangladesh Awami League. It is led by Prime Minister Sheikh Hasina.
+
+Parliament's powers are restricted by Article 70 of the Constitution of Bangladesh, which bans MPs from voting against their party or crossing the floor. MPs risk losing their seats if they turn against the party line. Hence, free votes and no-confidence motions to remove prime ministers have not been possible in the Bangladeshi parliament.
+        The Constituent Assembly of Bangladesh was established in 10 April 1972 after the Bangladesh Liberation War to prepare a democratic constitution and served as its first Parliament as an independent nation. The Assembly approved the Constitution on November 4, 1972, and it took effect on December 16[4] and the Constituent Assembly became the Provisional Parliament of Bangladesh until the first elections under the new Constitution took place in 1973.
+
+Until 10 July 1981 the Constituent Assembly, the first and second Parliament held their sittings in the building that now houses the Prime Minister's Office and which is often referred as the old Sangsad Bhaban (old Parliament House). The opening ceremony of the present Parliament House was performed on 15 February 1982. The last session of the second Parliament was held in the new house on 15 February 1982.[5]
+
+
+
+    </string>
+
+
+
+
+
+
+    <string name="india_text">
+    The Parliament of India is the supreme legislative body of the Republic of India. The Parliament is composed of the President of India and the houses. It is bicameral with two houses: the Rajya Sabha (Council of States) and the Lok Sabha (House of the People). The President in his role as head of legislature has full powers to summon and prorogue either house of Parliament or to dissolve Lok Sabha. The president can exercise these powers only upon the advice of the Prime Minister and his Union Council of Ministers.
+
+Those elected or nominated (by the President) to either house of Parliament are referred to as members of parliament (MP). The Members of Parliament, Lok Sabha are directly elected by the Indian public voting in Single-member districts and the Members of Parliament, Rajya Sabha are elected by the members of all of the State Legislative Assembly by proportional representation. The Parliament has a sanctioned strength of 545 in Lok Sabha including the 2 nominees from the Anglo-Indian Community by the President, and 245 in Rajya Sabha including the 12 nominees from the expertise of different fields of science, culture, art and history. The Parliament meets at Sansad Bhavan in New Delhi.
+        General layout of the parliament[edit]
+The centre and the focus of the building is the Central Hall. It consists of chambers of Lok Sabha, Rajya Sabha and the Library Hall and between them lie garden courts. Surrounding these three chambers is the four storyed circular structure providing accommodations for Ministers, Chairmen, Parliamentary committees, Party offices, important offices of Lok Sabha and Rajya Sabha Secretariats and also the offices of the ministry of Parliamentary affairs. The Central Hall is circular in shape and the dome is 29.87 m ( 98 feet) in diameter. It is a place of historical importance. The Indian Constitution was framed in the Central Hall. The Central Hall was originally used in the library of erstwhile Central Legislative Assembly and the Council of States. In 1946, it was converted and refurbished into Constituent Assembly Hall. At present, the Central Hall is used for holding joint sittings of both the houses of parliament and also used for address by the President in the commencement of first session after each general election.
+
+    </string>
+    <string name="pakistan_text">
+
+
+    The Parliament of Pakistan, (Urdu: مجلس شوریٰ پاکستان‬‎ — Majlis ê Shura Pākistān); is the federal and supreme legislative body of Pakistan. It is a bicameral federal legislature that consists of the Senate as upper house and the National Assembly, as lower houses. According to the constitution of Islamic Republic of Pakistan, the President of Pakistan is also a component of the Parliament. The National Assembly is elected for a five-year term on the basis of adult franchise and one-man one-vote. The tenure of a Member of the National Assembly is for the duration of the house, or sooner, in case the Member dies or resigns. The tenure of the National Assembly also comes to an end if dissolved on the advice of the Prime Minister or by the president in his discretion under the Constitution.
+
+The Parliament meets at the Parliament House building in Islamabad, where debating chambers for both houses are present. Until 1960, the Parliament House was located in Karachi. Parliament House of Pakistan is the first and only parliament in the world that runs completely on self-generated solar power.[1
+
+        he National Assembly of Pakistan is the lower house of the parliament. The National Assembly has 342 seats, 272 of which are directly elected, 60 are reserved for women and a further 10 for religious minorities. The National Assembly of Pakistan is the country's sovereign legislative body. It embodies the will of the people to let themselves be governed under the democratic, multi-party Federal Parliamentary System. The National Assembly makes laws for the Federation in respect of the powers enumerated in the Federal Legislative list. Through its debates, adjournment motion, question hour and Standing Committees, the National Assembly keeps as check over the Executive and ensures that the government functions within the parameters set out in the Constitution and does not violate the fundamental rights of citizens. Only the National Assembly, through its Public Accounts Committee, scrutinizes public spending and exercises control of expenditure incurred by the government. The Members of the National Assembly are to be elected by direct and free vote in accordance with law.
+
+
+    </string>
+</resources>
