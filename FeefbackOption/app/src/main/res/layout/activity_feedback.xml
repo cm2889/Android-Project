@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+
+    tools:context="com.example.cmtanvir.feefbackoption.feedback">
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:padding="10dp"
+     android:background="#22ff6f"
+     android:orientation="vertical">
+
+
+     <LinearLayout
+
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight=".5">
+
+         <EditText
+             android:layout_marginLeft="15dp"
+             android:layout_marginRight="20dp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:hint="Enter Your Name"
+             android:id="@+id/nameeditId"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             />
+
+     </LinearLayout>
+     <LinearLayout
+
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight="1.5">
+
+         <EditText
+             android:layout_marginTop="15dp"
+             android:layout_marginLeft="15dp"
+             android:layout_marginRight="20dp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:hint="Enter Your Feedback"
+             android:id="@+id/messageeditId"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             />
+
+
+
+     </LinearLayout>
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight="1"
+         android:gravity="center">
+
+         <Button
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:id="@+id/sendButtonId"
+             android:text="Send"
+             android:textSize="17sp"
+             style="@style/Base.Widget.AppCompat.Button.Colored"
+             />
+         <Button
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:id="@+id/clearButtonId"
+             android:text="Clear"
+             android:textSize="17sp"
+             style="@style/Base.Widget.AppCompat.Button.Colored"
+             />
+     </LinearLayout>
+
+ </LinearLayout>
+
+
+
+</LinearLayout>
+
