@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My spTwo</string>
+
+    <string-array name="country_names">Country Names
+        <item> Afghanistan </item>
+        <item> Albania </item>
+        <item>Bangladesh </item>
+        <item> Bhutan </item>
+        <item> Canada </item>
+        <item> Denamrk </item>
+        <item> England </item>
+        <item> India </item>
+        <item> Pakistan </item>
+
+    </string-array>
+
+    <string-array name="population">
+
+        <item> 10 Million </item>
+        <item> 8 Million </item>
+        <item> 18 Million </item>
+        <item> 5 Million </item>
+        <item> 12 Millin  </item>
+        <item> 9 Million  </item>
+        <item> 20 Million </item>
+        <item> 107 million </item>
+        <item> 85 Million </item>
+
+    </string-array>
+</resources>
