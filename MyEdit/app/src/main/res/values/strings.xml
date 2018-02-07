@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Edit</string>
+    <string name="edit_text1"> Enter Number 1 </string>
+    <string name="edit_text2"> Enter Number 2 </string>
+    <string name="add"> + </string>
+    <string name="sub"> - </string>
+    <string name="multiply"> * </string>
+    <string name="division"> / </string>
+</resources>
