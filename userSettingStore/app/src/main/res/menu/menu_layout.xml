@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/redcolorId"
+    android:title="Red Color"
+    app:showAsAction="never"/>
+    <item android:id="@+id/greencolorId"
+        android:title="Green Color"
+        app:showAsAction="never"/>
+    <item android:id="@+id/yellowcolorId"
+        android:title="Yellow Color"
+        app:showAsAction="never"/>
+</menu>
